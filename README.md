@@ -4,7 +4,7 @@ A simple React app using the PokéAPI to display a list of Pokémon. Built with 
 
 ## Live Demo
 
-[Click here to view the live app](pokemon-explorer-assignment-j61ro60wd-ak-2077s-projects.vercel.app)
+[Click here to view the live app](pokemon-explorer-assignment-oru7chiwc-ak-2077s-projects.vercel.app)
 
 ## Features
 - React functional components with Hooks
